@@ -40,6 +40,7 @@ baseurl: "/desbugando" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     github: Andygrammer
+    instagram: des_bugando
     # twitter: fastdotai
 
 # Set this to true to get LaTeX math equation support
