@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This website is powered by: **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Este é um projeto que visa facilitar os estudos dos estudantes de computação utilizando o conceito de cartas.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Siga o [instagram oficial do Desbugando](https://www.instagram.com/des_bugando/) para ver as cartas já criadas!
