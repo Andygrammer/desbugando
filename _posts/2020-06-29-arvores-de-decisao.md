@@ -6,4 +6,6 @@ categories: [markdown]
 title: Árvores de Decisão
 ---
 
-![instagram](CQtxxpuLJOe)
+{::options parse_block_html="false" /}
+
+<div align="center">https://www.instagram.com/p/CQtxxpuLJOe/</div>
