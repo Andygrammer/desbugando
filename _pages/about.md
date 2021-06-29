@@ -4,7 +4,7 @@ title: Sobre
 permalink: /sobre/
 ---
 
-## Bem-vindo(a) ao Desbugando!
+## Desbugando
 
 ### Este é um projeto que visa facilitar os estudos dos estudantes de computação utilizando o conceito de cartas.
 
