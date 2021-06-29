@@ -8,8 +8,8 @@ permalink: /sobre/
 
 ### Este é um projeto que visa facilitar os estudos dos estudantes de computação utilizando o conceito de cartas.
 
-![Logo do Desbugando](../images/Logo Desbugando.png =320x500)
+<img src="../images/Logo Desbugando.png" width="320" height="500">
 
 ### Siga o [instagram oficial do Desbugando](https://www.instagram.com/des_bugando/) para ver as cartas já criadas!
 
-**Idealizado por André Batemarchi.
+**Idealizado por André Batemarchi.**
