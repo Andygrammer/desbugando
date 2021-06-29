@@ -6,6 +6,18 @@ categories: [markdown]
 title: Árvores de Decisão
 ---
 
+Aqui está o código, em Python, desse conteúdo:
+
+```python
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.metrics import mean_absolute_error
+
+modelo = DecisionTreeRegressor(random_state=1)
+modelo.fit(X, y)
+predicoes = modelo.predict(X)
+erro = mean_absolute_error(y, predicoes)
+```
+
 {::options parse_block_html="false" /}
 
 <div align="center">
