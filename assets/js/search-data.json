@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Árvores de Decisão",
-            "content": ". Ver essa foto no Instagram Uma publicação compartilhada por @des_bugando .",
+            "content": "Aqui está o código, em Python, desse conteúdo: . from sklearn.tree import DecisionTreeRegressor from sklearn.metrics import mean_absolute_error modelo = DecisionTreeRegressor(random_state=1) modelo.fit(X, y) predicoes = modelo.predict(X) erro = mean_absolute_error(y, predicoes) . . Ver essa foto no Instagram Uma publicação compartilhada por @des_bugando .",
             "url": "https://andygrammer.github.io/desbugando/markdown/2020/06/29/arvores-de-decisao.html",
             "relUrl": "/markdown/2020/06/29/arvores-de-decisao.html",
             "date": " • Jun 29, 2020"
