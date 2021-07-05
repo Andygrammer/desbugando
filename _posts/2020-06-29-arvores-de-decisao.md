@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: O que são Árvores de Decisão
-categories: [markdown]
+categories: [IA, arvores de decisao, machine learning]
 title: Árvores de Decisão
 ---
 
