@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: O que são regressões linear e logística
 categories: [IA, regressao, linear, logistica, machine learning]
-title: Árvores de Decisão
+title: Regressões Liner e Logística
 ---
 
 Aqui está o código, em Python, desse conteúdo:
